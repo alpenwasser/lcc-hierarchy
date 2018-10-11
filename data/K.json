@@ -9712,7 +9712,7 @@
     {
       "id": "KD8600-8790",
       "size": 257,
-      "subject": "Ecclesiastical law.  Csanon law of the Church of",
+      "subject": "Ecclesiastical law.  Canon law of the Church of England",
       "parents": [
         "K",
         "KD",
@@ -11802,7 +11802,7 @@
     {
       "id": "KBP425-466.3",
       "size": 876,
-      "subject": "Us.ūl al-fiqh. Jurisprudence and theory of law. Science of",
+      "subject": "Us.ūl al-fiqh. Jurisprudence and theory of law. Science of legal reasoning",
       "parents": [
         "K",
         "KBP",
@@ -15204,7 +15204,7 @@
     {
       "id": "KJE833-838.8",
       "size": 5,
-      "subject": "Organization law.    Constitution of the Council of",
+      "subject": "Organization law.    Constitution of the Council of mutual economic assistance",
       "parents": [
         "K",
         "KJE",
@@ -15238,7 +15238,7 @@
         "[KJE5-9570] Regional organization and integration (Europe)",
         "[KJE10-897] Regional organization other than the European",
         "[KJE801-897] Council for Mutual Economic Assistance (COMECON)",
-        "[KJE833-838.8] Organization law.    Constitution of the Council of"
+        "[KJE833-838.8] Organization law.    Constitution of the Council of mutual economic assistance"
       ]
     },
     {
@@ -20573,7 +20573,7 @@
     {
       "id": "KJV811-856",
       "size": 58,
-      "subject": "Dissolution and disintegration of",
+      "subject": "Dissolution and disintegration of marriage",
       "parents": [
         "K",
         "KJV",
@@ -38100,7 +38100,7 @@
     {
       "id": "KFZ",
       "size": 0,
-      "subject": "Laws of the territories.  Laws of the Confederate States of",
+      "subject": "Laws of the territories.  Laws of the Confederate States of America",
       "parents": [
         "K"
       ],
